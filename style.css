@@ -1,0 +1,24 @@
+body {
+	background-color: darkorange;
+	color: white;
+}
+
+h1 {
+	font-size: 5em;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+label {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#response {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+}
